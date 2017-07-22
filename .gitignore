@@ -1,0 +1,5 @@
+*.org
+*.setup
+*.*\~
+.hg/*
+.hgignore

@@ -1,0 +1,46 @@
+﻿body {
+    margin: 5%;
+    background-color: #d0e0f0;
+    color: #0f0f0f
+}
+h1 {
+    margin: 0%;
+    font-family: "Roboto Condensed", sans-serif;
+    background-color: #6060f0;
+    color: white
+   }
+h2 {
+    margin: 0%;
+    color: white;
+    background-color: #6060f0;
+}
+h3 {
+    margin: 1%;
+    color: white;
+    background-color: #6060f0;
+}
+a {
+    color: #6060f0;
+}
+
+blockquote {
+    margin: 0%;
+    font-family: serif;
+    color: white;
+    background-color: #6060f0;
+    font-size: 125%;
+}
+
+pre {
+    margin: 1%;
+    font-size: 100%;
+    font-family: monospace;
+    color: #6060f0;
+    background-color: #f7f0f0;
+}
+
+img {
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
